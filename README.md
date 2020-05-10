@@ -9,4 +9,7 @@ The blockchain is a revolutionary technology that allows for the secure, distrib
 - APIs around the Blockchain.
 - A real-time connected peer-to-peer server.
 - Proof-of-work algorithm.
+- Signed Transactions with cryptography and digital signature.
+- A Transaction Pool for a real-time list of incoming data.
+- Transactions in core blocks of the chain.
 
